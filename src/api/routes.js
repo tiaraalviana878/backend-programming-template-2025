@@ -9,7 +9,7 @@ module.exports = () => {
 
   books(app);
   users(app);
-  gacha(app); // ⬅️ TAMBAH INI
+  gacha(app);
 
   return app;
 };
